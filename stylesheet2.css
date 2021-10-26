@@ -1,0 +1,14 @@
+h1 {color: #6f00ff;}
+h1 {background-image: url("background.gif");}
+h1 {text-align:center;}
+
+body {background-image: url("cat.gif");
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-blend-mode: multiply;
+
+#container {
+    background-color:darkcyan;
+    padding:20px;
+    display:flex;
+}

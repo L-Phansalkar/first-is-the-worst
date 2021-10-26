@@ -1,0 +1,22 @@
+
+body {color: #16c4ac;}
+body {background-image: url("paint.gif");
+  background-repeat: no-repeat;  
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+h1 {color: #00ff00;}
+h1 {background-color:coral;}
+h1 {text-align:center;}
+
+#container {
+  background-color:rgb(85, 16, 196);
+  padding:20px;
+  display:flex;
+}
+
+#container p {
+  border:1px dotted rgb(28, 97, 189);
+  flex:1;
+}
